@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fantasy-progect/static/css/main.799316f9.css",
+    "main.js": "/fantasy-progect/static/js/main.8cdaf89e.js",
+    "static/js/787.e423815d.chunk.js": "/fantasy-progect/static/js/787.e423815d.chunk.js",
+    "index.html": "/fantasy-progect/index.html",
+    "main.799316f9.css.map": "/fantasy-progect/static/css/main.799316f9.css.map",
+    "main.8cdaf89e.js.map": "/fantasy-progect/static/js/main.8cdaf89e.js.map",
+    "787.e423815d.chunk.js.map": "/fantasy-progect/static/js/787.e423815d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799316f9.css",
+    "static/js/main.8cdaf89e.js"
+  ]
+}
